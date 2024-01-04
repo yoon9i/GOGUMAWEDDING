@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GOGUMA</string>
+    <string name="txt_splash_contentDescription">스플래시화면</string>
+    <string name="txt_progressbar">Loading…</string>
+    <string name="goguma_url">https://iggm.co.kr/</string>
+    <string name="goguma_test_url">https://iggm.co.kr/index_test.html</string>
+    <string name="network_unavailable_message">네트워크에 연결되어 있지 않습니다.</string>
+    <string name="kakao_sdk">0702d81adf34beb4d30c80712f7939cf</string>
+    <string name="facebook_app_id">6864167676993273</string>
+</resources>
